@@ -4,5 +4,5 @@ The file 'usage_example.py' contains an example of how to generate a diverse set
 
 In 'seed_paper.ipynb', we include a snippet of the experiments conducted for the paper. However, the notebook is not intended to be run, as it requires the full Cortex dataset, which is not included in this repository.
 
-Cite this [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322048) as:
+Cite the paper as:  
 Viana da Silva M, de Carvalho Santos N, Ouellette J, Lacoste B, Comin CH (2025) A new dataset for measuring the performance of blood vessel segmentation methods under distribution shifts. PLOS ONE 20(5): e0322048. https://doi.org/10.1371/journal.pone.0322048
